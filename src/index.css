@@ -63,9 +63,10 @@ code {
 header{
   background-color: #373b69;
   padding:1rem;
-  justify-content: flex-end;
+  justify-content:flex-end;
   display: flex;
 }
+
 .search{
   font-family:inherit;
   font-size:1.2rem;
